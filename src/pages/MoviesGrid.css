@@ -17,7 +17,7 @@ img {
 .movies-container {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   padding: 1rem;  
   margin: 0 auto;
   height: 100%;
@@ -25,6 +25,7 @@ img {
 
 .movies-container div {  
   min-width: 30%;
+  margin-right: 0.8rem;
   color: #FFF;
   margin-bottom: 2.5rem;
   display: flex;
