@@ -1,0 +1,22 @@
+.app-container {
+  background-color:#330867;
+    
+}
+
+.rodape {
+  text-align: center;   
+  background-color: #282A2D;
+}
+
+@media screen and (max-width: 480px) {
+  /* Estilos para telas menores que 480px */
+ 
+  .descrition {
+    text-align: center;
+    margin: 10px;
+    
+  }
+  
+  
+
+}

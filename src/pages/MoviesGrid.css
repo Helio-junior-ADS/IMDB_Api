@@ -1,0 +1,162 @@
+.container .title {
+  color:#FFF;
+  font-size: 2.5rem;
+  text-align: center;
+  margin: 2rem 0 1rem;
+}
+
+
+.title .query-text {
+  color: #F7D354;
+}
+img {
+  max-width: 70%;
+  height: auto;
+}
+
+.movies-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 1rem;  
+  margin: 0 auto;
+  height: 100%;
+}
+
+.movies-container div {  
+  min-width: 30%;
+  color: #FFF;
+  margin-bottom: 2.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #282A2D;
+  padding: 1rem;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.movies-container div img {
+  max-width: 100%;
+  border-radius: 20px;
+}
+
+.movies-container div img,
+.movies-container div h2,
+.movies-container div p {
+  margin-bottom: 1rem;
+}
+
+.movies-container div svg {
+  color: #F7D354;
+}
+
+.movies-container div a {
+  background-color: #330867;
+  border: 1px solid white;
+  border-radius: 10px;
+  color: white;
+  padding: 1rem 0.5rem;  
+  align-items: center; 
+  transition: .4s;
+  text-align: center;
+  font-weight: bold;
+}
+
+.movies-container div a:hover {
+  background-color: transparent;
+  color: grey;
+}
+
+@media screen and (max-width: 768px) {
+  /* Estilos para telas menores que 768px */
+ 
+}
+
+@media screen and (max-width: 480px) {
+  /* Estilos para telas menores que 480px */
+  body {
+    font-size: 0.8rem;
+  }
+  
+  .container {
+    padding: 0.2rem;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  /* Estilos para telas menores que 480px */
+
+  .container .title {
+    color:#FFF;
+    font-size: 2.5rem;
+    text-align: center;
+    margin: 2rem 0 1rem;
+  }
+  
+  
+  .title .query-text {
+    color: #F7D354;
+  }
+  img {
+    max-width: 70%;
+    height: auto;
+  }
+  
+  .movies-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 1rem;    
+    margin: 0 auto;
+    height: 100%;
+  }
+  
+  .movies-container div {  
+    min-width: 30%;
+    color: #FFF;
+    margin-bottom: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #282A2D;
+    padding: 1rem;
+    border-radius: 20px;
+    text-align: center;
+  }
+  
+  .movies-container div img {
+    max-width: 100%;
+    border-radius: 20px;
+  }
+  
+  .movies-container div img,
+  .movies-container div h2,
+  .movies-container div p {
+    margin-bottom: 1rem;
+  }
+  
+  .movies-container div svg {
+    color: #F7D354;
+  }
+  
+  .movies-container div a {
+    background-color: #330867;
+    border: 1px solid white;
+    border-radius: 10px;
+    color: white;
+    padding: 1rem 0.5rem;  
+    align-items: center; 
+    transition: .4s;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .movies-container div a:hover {
+    background-color: transparent;
+    color: grey;
+  }
+  
+}
+ 
+
