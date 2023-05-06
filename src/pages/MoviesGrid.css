@@ -37,7 +37,7 @@ img {
   text-align: center;
 }
 
-.movies-container div img {
+.movies-container div img {  
   max-width: 100%;
   border-radius: 20px;
 }
@@ -117,6 +117,7 @@ img {
     min-width: 30%;
     color: #FFF;
     margin-bottom: 2.5rem;
+    margin-right: 0px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -126,9 +127,10 @@ img {
     text-align: center;
   }
   
-  .movies-container div img {
+  .movies-container div img {    
     max-width: 100%;
     border-radius: 20px;
+    
   }
   
   .movies-container div img,
