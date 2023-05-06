@@ -32,5 +32,5 @@
 + ## Preencher o arquivo .env com Key para AUTH.
 + ## Start SERVIDOR: npm run dev. 
 
-# 🦸 Author
+# 👨‍ Author
 Desenvolvido por Hélio Júnior 👨‍💻 [Entre em contato!](https://www.linkedin.com/in/h%C3%A9lio-j%C3%BAnior-81aa6612a/)
