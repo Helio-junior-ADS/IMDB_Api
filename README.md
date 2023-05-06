@@ -13,7 +13,7 @@
 * ## React.js: useState, useEffect,
 * ## React-router-dom: useParams, Link, useNavigate, Outlet, Routes.
 * ## Css puro sem processador.
-* ## DOM responsivo.
+* ## DOM responsivo (mobile, tablet).
 
 # 🔧 Technologies/Tools:
 + ## Dotenv.
