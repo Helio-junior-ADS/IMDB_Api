@@ -19,18 +19,18 @@
 + ## Vite.
 + ## React-icons.
 
-# ⚠️ Amelioration
+# ⚠️ Amelioration:
 ## As seguintes melhorias precisam ser feitas para aprimoramento do projeto.
 + ## Criação de uma rota privada para Autenticação do usuário.
 + ## Auto complete no campo de pesquisa.
 + ## Na rota get (search), trazer mais informações (traile).
 + ## Cobertura de testes unitarios e de integração.
 
-# 📝 Documentation
+# 📝 Documentation:
 
 + ## Instalar as dependências do projeto: NPM install.
 + ## Preencher o arquivo .env com Key para AUTH.
 + ## Start SERVIDOR: npm run dev. 
 
-# 👨‍ Author
+# 👨‍ Author:
 Desenvolvido por Hélio Júnior 👨‍💻 [Entre em contato!](https://www.linkedin.com/in/h%C3%A9lio-j%C3%BAnior-81aa6612a/)
