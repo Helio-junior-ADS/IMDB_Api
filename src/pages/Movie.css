@@ -76,7 +76,8 @@
   justify-content: center;
   cursor: pointer; 
   margin: 2rem auto;
-  transition: .4s; 
+  transition: .4s;
+  font-weight: bold;
   
 }
 
