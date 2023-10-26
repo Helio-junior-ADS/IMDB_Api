@@ -1,7 +1,7 @@
 #  IMDB_Api
 
 # ❓ About the project
-## Projeto desenvolvido para estudo de Front-end com React.js. um [site](https://imdb-api-9k1w.vercel.app/) tipo IMDB, para consultas de sinopse e classificação de filmes. Foi integrado api [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction)
+## Projeto desenvolvido para estudo de Front-end com React.js. um [site](https://imdb-api-orcin.vercel.app/) tipo IMDB, para consultas de sinopse e classificação de filmes. Foi integrado api [TheMovieDB](https://developers.themoviedb.org/3/getting-started/introduction)
 
 # ☁️ Deploy.
 * ## [Vercel](https://vercel.com/).
